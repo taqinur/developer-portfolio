@@ -58,7 +58,7 @@ section{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, rgb(46, 228, 91), rgb(22, 109, 65));
+    border-color: rgb(226, 119, 57);
     border-image-slice: 1;
 }
 #education{
